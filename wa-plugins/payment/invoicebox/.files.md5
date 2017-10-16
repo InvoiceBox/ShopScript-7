@@ -1,0 +1,10 @@
+a285da79a1cf95556e4eb1fd40059097 *templates\.htaccess
+8c93d1523a81104f2d406ed156489bca *templates\callback.html
+7a5d3a73a1e4e07acce7e9ab9570f7d2 *templates\payment.html
+a285da79a1cf95556e4eb1fd40059097 *lib\.htaccess
+d7397c4f5419a27b3675f99268a000fa *lib\config\guide.php
+9524563359644cc941f31fb53861ee2c *lib\config\plugin.php
+453439266b4e8dcc294a5563fb39cadc *lib\config\settings.php
+c54a56aadd015cc5b8dfaf6f0f2c8d25 *lib\intellectmoneyPayment.class.php
+f55eeb6531b8b3b8a65ed8a585058261 *img\favicon.ico
+bc6e8536dfe3dd5f74f740e11af05e42 *img\intellectMoney.png

@@ -1,0 +1,12 @@
+<form id="invoicebox-pay-form" action="{$form_url}" method="POST">
+{foreach $hidden_fields as $name => $value}
+    <input type="hidden" name="{$name}" value="{$value|escape}">
+{/foreach}
+    {if $auto_submit}
+        <script type="text/javascript">
+            document.getElementById('invoicebox-pay-form').submit();
+        </script>
+    {else}
+        <input type="submit" value="Оплатить заказ на сайте Invoicebox">
+    {/if}
+</form>
